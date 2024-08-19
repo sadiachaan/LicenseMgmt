@@ -1,0 +1,6 @@
+@S_CLMS_HostAddress = http://localhost:5241
+
+GET {{S_CLMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
